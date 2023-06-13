@@ -1,4 +1,4 @@
-## Amethyst | dotfiles 
+## [](https://i.imgur.com/gDBzfHr.png)Amethyst | dotfiles 
 **This is my dotfiles setup for my wonderful Hyprland rice.**
 Included: 
 - Hyprland config
