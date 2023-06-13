@@ -7,3 +7,9 @@ Included:
 - spotify-player (tui spotify player) theme
 - btop config
 - ohmyposh prompt theme
+
+## Screenshots
+**Secondary Monitor**
+![](https://i.imgur.com/fKK0jmz.png)
+**First Monitor**
+![](https://i.imgur.com/6awZ3Ff.png)
